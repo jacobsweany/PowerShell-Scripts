@@ -56,6 +56,7 @@ Full list :
 - All Client 2111
 - All Client 2203
 - All Client 2207
+- All Client 2303
 - All Clients Not Reporting HW Inv since 14 days
 - All Clients Not Reporting SW Inv since 30 days
 - All Clients X86
@@ -111,8 +112,11 @@ Full list :
 - Workstations | Windows 10 v20H2
 - Workstations | Windows 10 v21H1
 - Workstations | Windows 10 v21H2
+- Workstations | Windows 10 v22H2
 - Workstations | Windows 11
 - Workstations | Windows 11 v21H2
+- Workstations | Windows 11 v22H2
+- Workstations | Windows 11 v23H2
 - Workstations | Windows 10 Current Branch (CB)
 - Workstations | Windows 10 Current Branch for Business (CBB)
 - Workstations | Windows 10 Long Term Servicing Branch (LTSB)
@@ -161,6 +165,6 @@ Full list :
 - Workstations | Defender ATP Not Onboarded
 
 
-Tip : You can comment out any collections that you don't want using (#) at the begging of the "New/Add-CMCollection" lines in the "Create Collection" Section.
+Tip : You can comment out any collections that you don't want using (#) at the beginning of the "New/Add-CMCollection" lines in the "Create Collection" Section.
 
 For more details, you can refer to the blog post link : https://systemcenterdudes.com/create-operational-sccm-collection-using-powershell-script/
